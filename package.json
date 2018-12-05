@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jeremylscott/node-1-afternoon#readme",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "express": "^4.16.4"
   }
 }
